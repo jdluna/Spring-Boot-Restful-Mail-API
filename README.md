@@ -1,9 +1,9 @@
 # Email-Web-API_Spring_Boot
 
-#API URL
+# API URL
 [POST] http://localhost:8080/sendemail
 
-#Adding Payload
+# Adding Payload
 JSON
 {
 	"to" : "",
