@@ -1,4 +1,4 @@
-# Email-Web-API_Spring_Boot
+# Create RESTful Email Web Service | API using Spring Boot.
 
 # API URL
 [POST] http://localhost:8080/sendemail
