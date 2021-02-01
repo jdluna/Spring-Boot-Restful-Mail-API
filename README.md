@@ -1,3 +1,13 @@
+# Project Angular + Spring Boot
+This project is created with Angular 11 which can easily send the mail and for backend I have used Spring Boot.
+
+# Backend link for same project
+https://github.com/sagarkudu/Spring-Boot-Restful-Mail-API
+
+# Front End
+https://github.com/sagarkudu/Email-App-GUI-using-Angular
+
+
 # Create RESTful Email Web Service | API using Spring Boot.
 
 # API URL
